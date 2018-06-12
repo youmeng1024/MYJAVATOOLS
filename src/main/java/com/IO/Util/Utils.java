@@ -12,11 +12,11 @@ public class Utils {
         return save;
     }
 
-//    public static void main(String[] args){
-//
+    public static void main(String[] args){
+
 //        byte[] by = "123456".getBytes();
 //        System.out.println(new String(copyBytes(by,3,2)));
-//
-//
-//    }
+//        System.out.println(System.getProperty("java.class.path"));
+
+    }
 }
