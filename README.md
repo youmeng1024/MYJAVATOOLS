@@ -48,3 +48,8 @@ mmmmmmmmmmmmmmmm
 
 **************2018-06-13 16:16:11*********************
 本次版本的下载地址：http://youmw.xyz:8000/JAVA/down/1a6892a97ed2a8df882793866455dd10.jar
+
+
+**************2018-06-13 16:16:42*********************
+本次版本的下载地址：http://youmw.xyz:8000/JAVA/down/40feac1d607579b93bd2eb4a1139f50d.jar
+mmmmmmmmmmmmmmmm
