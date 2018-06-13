@@ -4,8 +4,6 @@
     <list default="true" id="66d2140f-d716-4017-9bbf-bd3de6028538" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/target/MYJAVATOOS-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/MYJAVATOOS-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,11 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pre-commit" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pre-commit" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.git/hooks/pre-commit">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="49" column="43" lean-forward="false" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+            <state relative-caret-position="18">
+              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commit-msg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.git/hooks/commit-msg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -50,6 +58,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/IO/Util/Utils.java" />
         <option value="$PROJECT_DIR$/.git/hooks/pre-commit" />
+        <option value="$PROJECT_DIR$/.git/hooks/commit-msg" />
       </list>
     </option>
   </component>
@@ -142,7 +151,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.git/hooks/pre-commit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.git/hooks/commit-msg" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -331,13 +340,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.git/hooks/pre-commit">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.git/hooks/pre-commit">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -718,8 +720,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.git/hooks/pre-commit">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="49" column="43" lean-forward="false" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+        <state relative-caret-position="18">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.git/hooks/commit-msg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding />
         </state>
       </provider>
