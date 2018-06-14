@@ -287,13 +287,4 @@ public class Utils {
 
 
 
-    public static void main(String[] args) throws IOException {
-
-
-
-        String path ="/home/youmeng/视频/1.zip";
-        System.out.println(byteToHexString(readFile(path)));
-
-
-    }
 }
