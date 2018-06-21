@@ -283,7 +283,25 @@ public class Utils {
         return bytes;
     }
 
-
+    /**
+     * 取出字符串中的空字符串‘00’
+     * @param str
+     * @return
+     */
+    public static String filterStringNull(String str){
+        if(str == null || str.length() == 0)
+            return str;
+        byte[] strbyte = str.getBytes();
+        ArrayList<Byte> newByte = new ArrayList<Byte>();
+        for(int i=0;i<strbyte.length;i++){
+            if(strbyte[i] != 0)
+                newByte.add(strbyte[i]);
+        }
+        byte[] newByteAry = new byte[newByte.size()];
+        for (int i=0;i<newByteAry.length;i++)
+            newByteAry[i] = newByte.get(i);
+        return new String(newByteAry);
+    }
 
 
 
