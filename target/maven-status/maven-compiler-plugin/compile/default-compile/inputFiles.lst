@@ -1,1 +1,9 @@
 /home/youmeng/GITPROJECT/MYJAVATOOLS/src/main/java/com/IO/Util/Utils.java
+/home/youmeng/GITPROJECT/MYJAVATOOLS/src/main/java/com/fileParse/Dex/DexHeader.java
+/home/youmeng/GITPROJECT/MYJAVATOOLS/src/main/java/com/fileParse/Dex/String_Ids.java
+/home/youmeng/GITPROJECT/MYJAVATOOLS/src/main/java/com/fileParse/Dex/FieldIds.java
+/home/youmeng/GITPROJECT/MYJAVATOOLS/src/main/java/com/fileParse/Dex/DexStruct.java
+/home/youmeng/GITPROJECT/MYJAVATOOLS/src/main/java/com/fileParse/Dex/MapList.java
+/home/youmeng/GITPROJECT/MYJAVATOOLS/src/main/java/com/fileParse/Dex/MethodIds.java
+/home/youmeng/GITPROJECT/MYJAVATOOLS/src/main/java/com/fileParse/Dex/ProtoIds.java
+/home/youmeng/GITPROJECT/MYJAVATOOLS/src/main/java/com/fileParse/Dex/TypeIdsItem.java

@@ -1,1 +1,16 @@
+com/fileParse/Dex/ProtoIds.class
+com/fileParse/Dex/StringIdsItem.class
+com/fileParse/Dex/DexStruct.class
+com/fileParse/Dex/TypeList.class
+com/fileParse/Dex/MethodIdsItem.class
+com/fileParse/Dex/TypeIdsItem.class
+com/fileParse/Dex/ProtoIdsItem.class
+com/fileParse/Dex/FieldIds.class
+com/fileParse/Dex/String_Ids.class
+com/fileParse/Dex/DexHeader.class
 com/IO/Util/Utils.class
+com/fileParse/Dex/MapList.class
+com/fileParse/Dex/MapItem.class
+com/fileParse/Dex/MethodIds.class
+com/fileParse/Dex/FieldIdsItem.class
+com/fileParse/Dex/StringDataItem.class
