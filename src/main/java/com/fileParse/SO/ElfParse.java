@@ -32,7 +32,7 @@ public class ElfParse {
             for(int i=0;i<shSize;i++)
                 shList.add(Elf64_shdr.parseSectionHeader(Utils.copyBytes(fileByteArray,secStart+i*secSize,secSize)));
 
-            System.out.println(shList);
+
         }else if(kind == 3 ){//32解析
             elfHeader = Elf32_hdr.parseheader(fileByteArray);
             Elf32_hdr e = (Elf32_hdr) elfHeader;
@@ -49,7 +49,6 @@ public class ElfParse {
                 shList.add(Elf32_shdr.parseSectionHeader(Utils.copyBytes(fileByteArray,secStart+i*secSize,secSize)));
 
 
-            System.out.println(shList);
         }else{
             System.out.println("好象不是so格式吧。。。。。。。。");
         }
