@@ -3,6 +3,7 @@ package com.fileParse.SO;
 import com.IO.Util.Utils;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class ElfParse {
@@ -54,8 +55,20 @@ public class ElfParse {
         }
     }
 
-//    public static void main(String[] args){
-//        ElfParse elfParse = new ElfParse("/home/youmeng/桌面/elftest/libsec.so");
-//
-//    }
+    public static void main(String[] args){
+        ElfParse elfParse = new ElfParse("/home/youmeng/桌面/elftest/libsec.so");
+        System.out.println(elfParse);
+    }
+
+
+    @Override
+    public String toString() {
+        return "ElfParse{\n" +
+                "filePath='" + filePath + '\'' +
+                ", kind=" + kind +
+                ", elfHeader=" + elfHeader +
+                ", phList=" + phList +
+                ", shList=" + shList +
+                '}';
+    }
 }
