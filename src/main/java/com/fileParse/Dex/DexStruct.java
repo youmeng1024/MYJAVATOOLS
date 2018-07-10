@@ -67,8 +67,5 @@ public class DexStruct {
                 '}';
     }
 
-    public static void main(String[] args){
-        DexStruct dex = new DexStruct("/home/youmeng/桌面/elftest/dex/Hello.dex");
-        System.out.println(dex);
-    }
+
 }

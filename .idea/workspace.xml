@@ -2,30 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66d2140f-d716-4017-9bbf-bd3de6028538" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/DexHeader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/DexStruct.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/FieldIds.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/MapList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/MethodIds.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/ProtoIds.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/String_Ids.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/TypeIdsItem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/DexHeader.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/DexStruct.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/FieldIds.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/FieldIdsItem.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/MapItem.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/MapList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/MethodIds.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/MethodIdsItem.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/ProtoIds.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/ProtoIdsItem.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/StringDataItem.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/StringIdsItem.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/String_Ids.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/TypeIdsItem.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/TypeList.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf32_hdr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf32_phdr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf32_shdr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf64_hdr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf64_phdr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf64_shdr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/SO/ElfParse.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/DexStruct.java" afterPath="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/DexStruct.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/DexStruct.class" afterPath="$PROJECT_DIR$/target/classes/com/fileParse/Dex/DexStruct.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,13 +24,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DexStruct.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/Dex/DexStruct.java">
+      <file leaf-file-name="ElfParse.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/SO/ElfParse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="882">
-              <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+            <state relative-caret-position="1026">
+              <caret line="57" column="6" lean-forward="false" selection-start-line="57" selection-start-column="6" selection-end-line="60" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#314#322#0" expanded="true" />
+                <element signature="e#372#380#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,6 +71,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/FieldIds.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/MethodIds.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fileParse/Dex/DexStruct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf64_hdr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf32_hdr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf64_phdr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf32_phdr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf32_shdr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf64_shdr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fileParse/SO/ElfParse.java" />
       </list>
     </option>
   </component>
@@ -205,19 +200,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="fileParse" type="462c0819:PsiDirectoryNode" />
-              <item name="Dex" type="462c0819:PsiDirectoryNode" />
-              <item name="FieldIds.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="MYJAVATOOS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MYJAVATOOLS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fileParse" type="462c0819:PsiDirectoryNode" />
-              <item name="Dex" type="462c0819:PsiDirectoryNode" />
-              <item name="MethodIds.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="SO" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -246,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DexStruct">
+  <component name="RunManager" selected="Application.ElfParse">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -262,6 +245,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.fileParse.Dex.DexStruct" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MYJAVATOOLS" />
+      <envs />
+    </configuration>
+    <configuration name="ElfParse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.fileParse.SO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.fileParse.SO.ElfParse" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -366,14 +368,16 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.Utils" />
       <item index="1" class="java.lang.String" itemvalue="Application.DexStruct" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ElfParse" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.DexStruct" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Utils" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.ElfParse" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DexStruct" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Utils" />
       </list>
     </recent_temporary>
   </component>
@@ -440,64 +444,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.git/hooks/pre-commit">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/IO/Util/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.git/hooks/pre-commit">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/IO/Util/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/IO/Util/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/IO/Util/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.git/hooks/pre-commit">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -727,25 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/Dex/DexHeader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/IO/Util/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="47" column="25" lean-forward="false" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1529566053400" expanded="true" signature="708:902" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/Dex/String_Ids.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -781,10 +708,10 @@
         <state relative-caret-position="350">
           <caret line="61" column="87" lean-forward="false" selection-start-line="61" selection-start-column="87" selection-end-line="61" selection-end-column="87" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1088#1104#0" expanded="true" />
-            <element signature="e#1780#1781#0" expanded="true" />
-            <element signature="e#1876#1877#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1088#1104#0" expanded="false" />
+            <element signature="e#1780#1781#0" expanded="false" />
+            <element signature="e#1876#1877#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -794,8 +721,8 @@
         <state relative-caret-position="556">
           <caret line="60" column="1" lean-forward="false" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#979#996#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#979#996#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -805,18 +732,104 @@
         <state relative-caret-position="890">
           <caret line="57" column="18" lean-forward="false" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1003#1020#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1003#1020#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/Dex/DexHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/Dex/DexStruct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        <state relative-caret-position="1242">
+          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf32_hdr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf32_32phdr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/IO/Util/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1529566053400" expanded="true" signature="708:902" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf32_phdr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="78" lean-forward="false" selection-start-line="36" selection-start-column="78" selection-end-line="36" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf64_hdr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf64_phdr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="30" column="68" lean-forward="false" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf32_shdr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/SO/Elf64_shdr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="45" column="84" lean-forward="false" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fileParse/SO/ElfParse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="6" lean-forward="false" selection-start-line="57" selection-start-column="6" selection-end-line="60" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#314#322#0" expanded="true" />
+            <element signature="e#372#380#0" expanded="true" />
           </folding>
         </state>
       </provider>
